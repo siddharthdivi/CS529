@@ -11,6 +11,6 @@ This repository consists of three modules, each of which is outlined below:
 
 **Module 1** introduces python with numpy, pandas and scikit-learn.
 
-**Module 2** introduces evaluation of machine learning models using scikit-learn.
+**Module 2** introduces the evaluation of machine learning models using scikit-learn.
 
-**Module 3** introduces building machine learning models using Keras.
+**Module 3** introduces building deep learning models using Keras.
