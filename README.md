@@ -1,6 +1,7 @@
 # CS529 Security Analytics (Fall 2019, Purdue University)
 
 **Instructor:** Z. Berkay Celik (zcelik@purdue.edu)
+
 **TA:** Siddharth Divi (sdivi@purdue.edu)
 
 
