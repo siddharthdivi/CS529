@@ -16,4 +16,4 @@ For introduction on how to use Jupyter notebooks, please refer the following lin
 For queries on installing Jupyterhub with an Anaconda environment, please follow the links below:  
 **Windows** : https://docs.anaconda.com/anaconda/install/windows/  
 **macOS** : https://docs.anaconda.com/anaconda/install/mac-os/  
-**Linux** : https://docs.anaconda.com/anaconda/install/linux/s
+**Linux** : https://docs.anaconda.com/anaconda/install/linux/
