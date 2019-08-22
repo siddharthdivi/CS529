@@ -1,9 +1,10 @@
-# CS529 (offered Fall 2019 at Purdue University, West Lafayette)
+# CS529 Security Analytics (Fall 2019, Purdue University)
 
-This repository contains jupyter notebooks, for people to get acquainted with the basics of python, pandas, numpy, matplotlib,
-keras, and machine learning metrics, for the course CS529 : Security Analytics.
+This repository contains jupyter notebooks for students to learn about the basics of python, pandas, numpy, matplotlib,
+keras, and machine learning metrics.
 
-This repository consists of 3 modules, each of which is outlined below :  
+This repository consists of three modules, each of which is outlined below:  
+
 **Module 1** : It deals with introduction to python with numpy, pandas and scikit-learn.
 
 **Module 2** : It deals with the evaluation of machine learning models, using scikit-learn.
