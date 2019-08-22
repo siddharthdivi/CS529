@@ -13,7 +13,7 @@ This repository consists of three modules, each of which is outlined below:
 
 For introduction on how to use Jupyter notebooks, please refer the following link : https://www.codecademy.com/articles/how-to-use-jupyter-notebooks  
 
-For queries on installing Jupyterhub with an Anaconda environment, please follow the links given below:  
+For queries on installing Jupyterhub with an Anaconda environment, please follow the links below:  
 **Windows** : https://docs.anaconda.com/anaconda/install/windows/  
 **macOS** : https://docs.anaconda.com/anaconda/install/mac-os/  
 **Linux** : https://docs.anaconda.com/anaconda/install/linux/s
