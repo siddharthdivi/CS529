@@ -1,1 +1,1 @@
-This module will introduce the commonly used metric in regression and classification for model evaluation.
+This module will introduce the commonly used metrics in regression and classification for model evaluation.
