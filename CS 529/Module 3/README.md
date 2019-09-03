@@ -23,12 +23,6 @@ Introduction to deep learning based on Keras framework. These tutorials are dire
 * Image captioning
 * Semantic segmentation
 
-
-
-*Note*
-* [Deep Learning Glossary](https://github.com/tgjeon/Keras-Tutorials/blob/master/DeepLearningGlossary.md) (for Korean)
-: This documentation is translated from blog post on wildml.com (with author's permission)
-
 *Dependencies*
 * [Keras v1.2.1](https://github.com/fchollet/keras)
 * [TensorFlow v0.12](https://github.com/tensorflow/tensorflow)
