@@ -1,4 +1,4 @@
-# CS529 Security Analytics (Fall 2020, Purdue University)
+# CS529 Security Analytics (Purdue University)
 
 **Instructor:** Z. Berkay Celik (zcelik@purdue.edu)
 
